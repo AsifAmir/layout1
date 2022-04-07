@@ -1,0 +1,33 @@
+.logo{
+	height: 100px;
+	background-color: skyblue;
+}
+.navigation{
+	height: 120px;
+	background-color: darkcyan;
+}
+.header{
+	height: 140px;
+	background-color: seagreen;
+}
+.container{
+	/*border: 10px solid yellow;*/
+	overflow: hidden;
+}
+.sidebar{
+	height: 255px;
+	background-color: lightskyblue;
+	width: 30%;
+	float: left;
+}
+.bodyarea{
+	height: 255px;
+	background-color: orangered;
+	width: 70%;
+	float: right;
+}
+.footer{
+	height: 100px;
+	background-color: silver;
+	/*clear: both;*/
+}
